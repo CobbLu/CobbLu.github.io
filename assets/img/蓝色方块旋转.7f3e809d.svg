@@ -1,4 +1,0 @@
-<svg xmlns='http://www.w3.org/2000/svg' width='60' height='60'>
- <rect width='42.42' height='42.42' transform='translate(30 0) rotate(45)' fill='#1a73e8'/>
- <animateTransform attributeType="XML" attributeName="transform" begin="0s" dur="15s" type="rotate" from="0 0 0" to="180 0 0" repeatCount="indefinite" />
-</svg>
