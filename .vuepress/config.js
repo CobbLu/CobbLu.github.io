@@ -21,7 +21,7 @@ module.exports = {
   ],
   'plugins': [
     // 音乐插件
-    ['meting', {
+    ['vuepress-plugin-meting', {
       meting: {
         // 腾讯
         server: "tencent",
@@ -32,7 +32,7 @@ module.exports = {
       // 不配置该项的话不会出现全局播放器
       aplayer: {
         // 吸底模式
-        fixed: false,
+        fixed: true,
         mini: true,
         // 自动播放
         autoplay: false,

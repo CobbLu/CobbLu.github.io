@@ -10,5 +10,9 @@
     "vuepress": "1.8.2",
     "vuepress-theme-reco": "1.6.6"
   },
-  "description": "Cobb's blog"
+  "description": "Cobb's blog",
+  "dependencies": {
+    "vuepress-plugin-code-copy": "^1.0.6",
+    "vuepress-plugin-meting": "^0.2.3"
+  }
 }
