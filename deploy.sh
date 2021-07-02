@@ -3,7 +3,7 @@ npm run build
 cd public
 
 git config --global user.name bad_morty
-git config --email user.email xxx@xxx.com
+git config --global user.email xxx@xxx.com
 
 git init
 git add .
